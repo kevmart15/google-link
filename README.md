@@ -1,3 +1,3 @@
 # google-link
 google link for method
-google.com
+https://www.google.com
